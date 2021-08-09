@@ -7,7 +7,7 @@ setup(
     description='Proyecto del pollo mas poderoso',
     author='ChepeCarlos',
     author_email='chepecarlos@alswblog.org',
-    url='https://github.com/chepecarlos/proyectopollo',
+    url='https://github.com/chepecarlos/ElPollo',
     install_requires=[],
     packages=find_packages(exclude=('tests*','testing*')),
     entry_points={
